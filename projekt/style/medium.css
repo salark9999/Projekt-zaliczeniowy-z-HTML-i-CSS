@@ -1,0 +1,69 @@
+nav {
+    padding: 20px 7.5%;
+}
+
+.logo {
+    font-size: 29px;
+}
+
+.logo img {
+    width: 33px;
+}
+
+#menu-img {
+    width: 35px;
+}
+
+.welcome-view-shadow {
+    padding: 10% 8%;
+}
+
+.welcome-view-shadow h1 {
+    font-size: 50px; 
+}
+
+.welcome-view-shadow div {
+    padding-top: 20px;
+}
+
+.btn-big {
+    padding: 15px 15px;
+}
+
+.btn-text {
+    font-size: 14px;
+}
+
+#courses h2 {
+    font-size: 35px;
+}
+
+.square-container {
+    padding: 0px 20px;
+}
+
+.square {
+    width: 49%;
+    padding-bottom: 49%;
+    margin-bottom: 15px;
+}
+
+.square-content p {
+    padding: 0 12px;
+
+    font-size: 14px; 
+    line-height: 20px;
+}
+
+.questions {
+    font-size: 20px;
+}
+
+.ending span {
+    font-size: 15px;
+}
+
+#social-media-img i {
+    padding: 15px;
+}
+

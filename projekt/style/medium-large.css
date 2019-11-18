@@ -1,0 +1,67 @@
+button {
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.welcome-view-shadow h2 {
+    width: 50%;
+    padding-top: 25px;
+
+    font-size: 19px;
+    line-height: 22px;
+}
+
+.btn-big {
+    padding: 17px 17px;
+}
+
+.btn-big:hover {
+    background: rgb(118, 207, 152);
+    color: white;
+}
+
+.btn-text {
+    font-size: 15px;
+}
+
+.btn-play img {
+    width: 25px;
+    margin: 10px;
+}
+
+.btn-play:hover {
+    padding: 0px 5px;
+    border: 2px solid white;
+    
+}
+
+#courses {
+    padding: 40px 40px;
+
+    font-size: 20px;
+}
+
+#courses p {
+    width: 50%;
+}
+
+.square-content p {
+    padding: 0 15px;
+
+    font-size: 18px; 
+    line-height: 20px;
+}
+
+.btn-view:hover {
+    background: white;
+    color: black;
+}
+
+#btn-question:hover {
+    background: rgb(118, 207, 152);
+    color: white;
+}
+
+#social-media-img i {
+    font-size: 23px;
+}
